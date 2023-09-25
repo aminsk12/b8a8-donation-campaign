@@ -4,12 +4,12 @@ import Service from "../../Components/Service/Service";
 
 
 const Home = () => {
-    const services = useLoaderData()
-    console.log(services);
+    //const services = useLoaderData()
+    //console.log(services);
     return (
         <div>
           <Banner></Banner>
-           <Service services={services}></Service>
+           <Service ></Service>
         </div>
     );
 };
