@@ -1,15 +1,18 @@
-import { useLoaderData } from "react-router-dom";
+
 import Banner from "../../Components/Header/Banner/Banner";
-import Service from "../../Components/Service/Service";
+import Services from "../../Components/Services/Services";
 
 
 const Home = () => {
-    //const services = useLoaderData()
-    //console.log(services);
+
+
     return (
-        <div>
-          <Banner></Banner>
-           <Service ></Service>
+        <div >
+            <Banner></Banner>
+          <div className="flex justify-center items-center">
+          
+           <Services ></Services>
+          </div>
         </div>
     );
 };

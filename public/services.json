@@ -6,8 +6,8 @@
         "category": "Health",
         "category_bg": "#3498db",
         "card_bg": "#0052FF26",
-        "text_bg": "#333",
-        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+        "text_bg": "#0052FF",
+        "description": "Discover holistic health, where mind, body, and spirit unite for total well-being. Nourish your body, find mental clarity, and cultivate emotional wellness. Embrace physical fitness and spiritual awakening, supported by a vibrant community. Begin your transformative journey to a healthier, happier you.",
         "price": "$299.99"
     },
     {
@@ -17,8 +17,8 @@
         "category": "Education",
         "category_bg": "#e74c3c",
         "card_bg": "#FF444A26",
-        "text_bg": "#333",
-        "description": "Suspendisse potenti. Sed ut est a nisl lacinia tincidunt.",
+        "text_bg": "#FF444A",
+        "description": "There are many things that can be done to ensure that all people have access to a good education. Governments can invest in public schools, provide financial assistance to students, and make sure that all schools have qualified teachers and resources. Families can support their children's education by creating a learning environment at home and helping them with their schoolwork. Teachers can create a positive and supportive learning environment for their students and challenge them to reach their full potential.",
         "price": "$49.95"
     },
     {
@@ -28,8 +28,8 @@
         "category": "Clothing",
         "category_bg": "#2ecc71",
         "card_bg": "#79C23F26",
-        "text_bg": "#333",
-        "description": "Vestibulum sit amet orci a odio convallis laoreet.",
+        "text_bg": "#79C23F",
+        "description": "It seems like you'd like information or assistance related to clothing. Can you please specify your clothing-related question or request so I can provide you with the most relevant information or assistance? Whether it's about fashion advice, clothing brands, shopping tips, or anything else related to clothing, feel free to ask, and I'll be happy to help.",
         "price": "$149.99"
     },
     {
@@ -39,9 +39,9 @@
         "category": "Food",
         "category_bg": "#9b59b6",
         "card_bg": "#F8714726",
-        "text_bg": "#333",
-        "description": "Cras in justo et est convallis hendrerit.",
-        "price": "$24.99"
+        "text_bg": "#F87147",
+        "description": "Certainly Food is a vast and fascinating topic. How can I assist you with food-related information or questions? Whether you're looking for recipes, cooking tips, information about dietary choices, or anything else related to food, please let me know what specific information or assistance you need, and I'll be happy to provide it.",
+        "price": "$24.99 "
     },
     {
         "id": 5,
@@ -50,19 +50,19 @@
         "category": "Food",
         "category_bg": "#f39c12",
         "card_bg": "#F8714726",
-        "text_bg": "#333",
-        "description": "Quisque congue augue nec ligula cursus, non vehicula felis tincidunt.",
+        "text_bg": "#F87147",
+        "description": "Certainly! Food is a vast and fascinating topic. How can I assist you with food-related information or questions? Whether you're looking for recipes, cooking tips, information about dietary choices, or anything else related to food, please let me know what specific information or assistance you need, and I'll be happy to provide it.",
         "price": "$79.99"
     },
     {
         "id": 6,
         "picture": "https://i.ibb.co/p0Hs1M9/Clothing.png",
-        "title": "Product 6",
+        "title": "Used Clothing Drive",
         "category": "Books",
         "category_bg": "#3498db",
-        "card_bg": "#0052FF26",
-        "text_bg": "#333",
-        "description": "Nullam fringilla mi vitae sem rhoncus, non feugiat elit auctor.",
+        "card_bg": "#79C23F26",
+        "text_bg": "#79C23F",
+        "description": "It seems like you'd like information or assistance related to clothing. Can you please specify your clothing-related question or request so I can provide you with the most relevant information or assistance? Whether it's about fashion advice, clothing brands, shopping tips, or anything else related to clothing, feel free to ask, and I'll be happy to help.",
         "price": "$19.95"
     },
     {
@@ -72,8 +72,8 @@
         "category": "Education",
         "category_bg": "#e74c3c",
         "card_bg": "#FF444A26",
-        "text_bg": "#333",
-        "description": "Pellentesque euismod elit in tortor hendrerit, ac bibendum orci faucibus.",
+        "text_bg": "#FF444A",
+        "description": "There are many things that can be done to ensure that all people have access to a good education. Governments can invest in public schools, provide financial assistance to students, and make sure that all schools have qualified teachers and resources. Families can support their children's education by creating a learning environment at home and helping them with their schoolwork. Teachers can create a positive and supportive learning environment for their students and challenge them to reach their full potential.",
         "price": "$39.99"
     },
     {
@@ -82,9 +82,9 @@
         "title": "Clean water for children",
         "category": "Health",
         "category_bg": "#2ecc71",
-        "card_bg": "#00522626",
-        "text_bg": "#333",
-        "description": "In sit amet ipsum a elit dignissim laoreet.",
+        "card_bg": "#0052FF26",
+        "text_bg": "#0052FF",
+        "description": "Discover holistic health, where mind, body, and spirit unite for total well-being. Nourish your body, find mental clarity, and cultivate emotional wellness. Embrace physical fitness and spiritual awakening, supported by a vibrant community. Begin your transformative journey to a healthier, happier you.",
         "price": "$199.99"
     },
     {
@@ -94,8 +94,8 @@
         "category": "Health",
         "category_bg": "#9b59b6",
         "card_bg": "#0052FF26",
-        "text_bg": "#333",
-        "description": "Mauris nec justo in libero bibendum consectetur.",
+        "text_bg": "#0052FF",
+        "description": "Discover holistic health, where mind, body, and spirit unite for total well-being. Nourish your body, find mental clarity, and cultivate emotional wellness. Embrace physical fitness and spiritual awakening, supported by a vibrant community. Begin your transformative journey to a healthier, happier you.",
         "price": "$29.99"
     },
     {
@@ -105,8 +105,8 @@
         "category": "Education",
         "category_bg": "#f39c12",
         "card_bg": "#FF444A26",
-        "text_bg": "#333",
-        "description": "Vivamus non sapien sit amet arcu malesuada varius.",
+        "text_bg": "#FF444A",
+        "description": "There are many things that can be done to ensure that all people have access to a good education. Governments can invest in public schools, provide financial assistance to students, and make sure that all schools have qualified teachers and resources. Families can support their children's education by creating a learning environment at home and helping them with their schoolwork. Teachers can create a positive and supportive learning environment for their students and challenge them to reach their full potential.",
         "price": "$139.99"
     },
     {
@@ -116,8 +116,8 @@
         "category": "Clothing",
         "category_bg": "#3498db",
         "card_bg": "#79C23F26",
-        "text_bg": "#333",
-        "description": "Fusce vel urna sed libero malesuada scelerisque.",
+        "text_bg": "#79C23F",
+        "description": "It seems like you'd like information or assistance related to clothing. Can you please specify your clothing-related question or request so I can provide you with the most relevant information or assistance? Whether it's about fashion advice, clothing brands, shopping tips, or anything else related to clothing, feel free to ask, and I'll be happy to help.",
         "price": "$69.95"
     },
     {
@@ -127,8 +127,9 @@
         "category": "Food",
         "category_bg": "#e74c3c",
         "card_bg": "#F8714726",
-        "text_bg": "#333",
-        "description": "Nam ac tortor quis justo dignissim iaculis.",
+        "text_bg": "#F87147",
+        "description": 
+        "Certainly! Food is a vast and fascinating topic. How can I assist you with food-related information or questions? Whether you're looking for recipes, cooking tips, information about dietary choices, or anything else related to food, please let me know what specific information or assistance you need, and I'll be happy to provide it.",
         "price": "$249.99"
     }
 ]
